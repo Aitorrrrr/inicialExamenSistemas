@@ -21,6 +21,7 @@ public class Principal {
 		numInverso=numeroInverso(num);
 		
 		System.out.println("El número inverso a "+num+" es: "+numInverso);
+		// Añado comentario para commit
 	}
 	
 	public static String numeroInverso(int num)
